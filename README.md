@@ -1,6 +1,6 @@
 🚀 Microservices Project with Docker and Kubernetes 🐳
 
-Welcome to my GitHub repository for my microservices project! This project showcases my expertise in building scalable and containerized applications using Docker and Kubernetes. 🌟
+This is my microservices small project in which I made everything from scratch including event bus, just for practice.
 
 🔧 Technologies Used:
 - Docker: Containerization for seamless deployment and isolation
